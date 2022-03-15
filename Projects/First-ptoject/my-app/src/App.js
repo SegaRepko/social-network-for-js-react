@@ -7,10 +7,9 @@ import Music from './components/Music/Music';
 import News from './components/News/News';
 import Settings from './components/Settings/Settings';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { addPost, updateNewPostText } from './render';
+
 
 const App = (props) => {
-
 
 
   return (
